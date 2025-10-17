@@ -31,6 +31,17 @@ nav a{
   font-weight:bold;
   text-decoration:none;
 }
+.myfont {
+  font-family: "BBH Sans Bogle", sans-serif;
+  font-weight: 200;
+  
+  font-style: normal;
+}
+#myotherfont{
+  font-family: "Limelight", sans-serif;
+  font-size: 1em;
+  font-style: normal;
+}
 
 table{
   margin: 18px auto;
@@ -58,9 +69,5 @@ table th, table td{
 table img{
   width:100px;
   height:100px;
-  object-fit:cover;
-}
-
-submitbuttonn{
   object-fit:cover;
 }
